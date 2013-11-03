@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Hello World!"
+echo "Das Datum ist $(date +%d.%m.%Y)" 
+echo "Verzeichnis: $(pwd)" 
+echo $1 
